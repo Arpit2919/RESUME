@@ -6,6 +6,10 @@ body{
     
     
 }
+.navbar-toggler-icon{
+ 
+    background-color:white;
+}
 .container-fluid{
     padding: 3% 13%;
 }
